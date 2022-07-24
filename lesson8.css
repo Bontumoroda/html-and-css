@@ -1,0 +1,158 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.input-block{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    float: left;
+    margin-top: 0;
+    padding-left: 10px;
+}
+.name{
+    display: block;
+    margin: 10px;
+   font-size: 20px;
+   width: 400px;
+   border-color: rgba(0, 0, 0, 0.25);
+   padding-top: 5px;
+   padding-left: 5px;
+   padding-bottom: 5px;}
+.chatting-class{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    float: left;
+    padding-left: 10px;
+    margin-top: 0;
+}
+#discribtion-paragraph{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.google-com{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    float: left;
+    margin-top: 0;
+    vertical-align:middel;
+    padding-left: 10px;
+}
+.google-logo{
+    display: block;
+    width: 300px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.googleshearch{
+
+    width: 400px;
+    font-size: 20px;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border: none;
+    border-radius: 27px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    padding-left: 10px;
+}
+.sign-up-form{
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    float: left;
+    margin-top: 0;
+    padding-left: 10px;
+}
+.last-name, .frist-name{
+    width: 200px;
+    font-size: 20px;
+    border-color: rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin: 5px;
+}
+.email{
+    display: block;
+    margin: 10px;
+   font-size: 20px;
+   width: 400px;
+   border-color: rgba(0, 0, 0, 0.25);
+   padding-top: 5px;
+   padding-left: 5px;
+   padding-bottom: 5px;
+}
+.sign-up-btn{
+    background-color: rgb(16, 101, 180);
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 16px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.request{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    float: left;
+    margin-top: 0;
+    padding-left: 10px;
+}
+.header{
+    font-size: 40px;
+    font-weight: bold;
+}
+.enter-pick-up{
+    display: block;
+    margin: 10px;
+   font-size: 20px;
+   width: 400px;
+   border-color: rgba(0, 0, 0, 0.25);
+   padding-top: 5px;
+   padding-left: 5px;
+   padding-bottom: 5px;
+   background-color: rgb(236, 238, 241);
+}
+.request-btn{
+    background-color: rgb(236, 238, 241);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    color: rgb(17, 15, 15);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.schedule-btn{
+    background-color: rgb(10, 11, 12);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}

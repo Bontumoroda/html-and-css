@@ -1,0 +1,149 @@
+body{
+    background-color: black;
+}
+.small-radius{
+    border-radius: 35px;
+    width: 100px;
+    margin: 10px;
+
+}
+.no-radius{
+    width: 100px;
+    margin: 10px;
+
+}
+.full-radius{
+    border-radius:50px;
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+}
+.imge{
+    width: 500px;
+    height: 230px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    text-align: center;
+    float: left;
+}
+.youtube{
+    width: 500px;
+    height: 50px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    text-align: center;
+    float: left;
+}
+.rounded-corner{
+    width: 400px;
+    font-size: 20px;
+    border:none;
+    border-radius: 5px;
+    padding-left: 19px;
+    padding-right:12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+
+}
+.google{
+    width: 500px;
+    height: 80px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    text-align: center;
+    float: left;
+}
+.googleshearch{
+
+    width: 400px;
+    font-size: 20px;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border: none;
+    border-radius: 27px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+
+}
+.email{
+    width: 500px;
+    height: 180px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    float: left;
+    padding-left: 8px;
+}
+.header{
+margin: 0;
+color:rgb(96, 96, 96)
+}
+.email-input{
+    color: rgb(96, 96, 96);
+    width: 400px;
+    font-size: 15px;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.difinition{
+color: rgb(96, 96, 96);
+}
+.agree-btn{
+    background-color: rgb(16, 101, 180);
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 16px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.tweet{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 60px;
+    padding-top: 10px;
+    text-align: center;
+    float: left;
+    margin-top: 0;
+}
+.profiole{
+    width:60px;
+    height: 60px;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+.twitter-text-box{
+font-size:20px;
+border: none;
+}
+.tweet-button{
+    background-color: rgb(29,155,255);
+    color: white;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 18px;
+    border: none;
+    margin-left: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    transition: box-shadow 0.15s;
+   }
+   .tweet-button:hover{
+       box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+   
+   }
